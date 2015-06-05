@@ -71,7 +71,7 @@ package ejercicioHospital;
  * String obtenerDatosPaciente(String ficheroMaestro, String DniPaciente)
  * double obtenerPorcentajeSeguro(String ficheroMaestro)
  * 
- * void renombrarFicheroMaestro(String ficheroMaestro, String ficheroActualizado)
+ * void renombrarFichero(String fichero1, String fichero2)
  * 
  */
 
