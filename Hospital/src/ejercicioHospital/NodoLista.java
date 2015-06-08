@@ -11,6 +11,15 @@ package ejercicioHospital;
  * nodoSig: Básica - NodoLista - Consultable y Modificable
  * 
  * 
+ * FUNCIONALIDADES
+ * ---------------
+ * 
+ * 
+ * RESTRICCIONES
+ * -------------
+ * 
+ * 
+ * 
  * INTERFAZ
  * --------
  * T getinfo()
